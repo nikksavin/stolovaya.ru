@@ -1213,6 +1213,10 @@ header {
   overflow: hidden;
 }
 
+.news-left__item-img img {
+    width: 100%;
+}
+
 .news-left__item-info {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1298,6 +1302,7 @@ header {
 
 .news-right__item-img {
   max-width: 190px;
+  min-width: 190px;
   width: 100%;
 }
 
