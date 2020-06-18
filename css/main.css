@@ -2715,6 +2715,16 @@ ul {
     width: 45px;
     height: 47px;
   }
+
+  .offers .offers-top .offers-top__slider .swiper-container .swiper-slide .swiper-slide__content .swiper-slide__content-btn {
+    background: #faad3d;
+    border: transparent solid 1px;
+    color: #fff;
+    margin: 20px 0;
+    font-size: 16px;
+    line-height: 32px;
+    padding: 3px 30px;
+}
 }
 
 @media (max-width: 620px) {
